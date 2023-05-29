@@ -7,7 +7,17 @@ public class Demo1 {
 		System.out.println("delete my twitter account");
 	}
 	
-	
+	public void IOSApps() {
+		System.out.println("apple1");
+		System.out.println("apple2");
+
+		System.out.println("apple3");
+		System.out.println("apple4");
+
+		System.out.println("apple5");
+		System.out.println("apple6");
+
+	}
 	
 
 	public static void main(String[] args) {
