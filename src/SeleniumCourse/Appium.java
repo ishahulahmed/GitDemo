@@ -8,6 +8,10 @@ public class Appium {
 			System.out.println(i);
 		}
 		
+		System.out.println("redmi");
+		System.out.println("xiaomi");
+		System.out.println("iphone");
+		System.out.println("mi");
 		
 		
 	}
