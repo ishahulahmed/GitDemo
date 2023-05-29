@@ -8,6 +8,11 @@ public class Demo1 {
 		
 		System.out.println("Hello World");
 		
+		System.out.println("changes to git");
+		
+		System.out.println("changes to git2");
+		
+		System.out.println("changes to git3");
 		
 		
 		
